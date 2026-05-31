@@ -15,4 +15,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
+## Array
+|  |
+| ------- |
+| [2126-destroying-asteroids](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2126-destroying-asteroids) |
+## Greedy
+|  |
+| ------- |
+| [2126-destroying-asteroids](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2126-destroying-asteroids) |
+## Sorting
+|  |
+| ------- |
+| [2126-destroying-asteroids](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2126-destroying-asteroids) |
 <!---LeetCode Topics End-->
