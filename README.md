@@ -36,4 +36,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1306-jump-game-iii) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
