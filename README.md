@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -67,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+## Math
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
