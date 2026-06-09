@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0641-design-circular-deque](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0641-design-circular-deque) |
 | [1306-jump-game-iii](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1306-jump-game-iii) |
+| [1383-maximum-performance-of-a-team](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1383-maximum-performance-of-a-team) |
 | [2126-destroying-asteroids](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1383-maximum-performance-of-a-team](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1383-maximum-performance-of-a-team) |
 | [2126-destroying-asteroids](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1383-maximum-performance-of-a-team](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1383-maximum-performance-of-a-team) |
 | [2126-destroying-asteroids](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -109,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1383-maximum-performance-of-a-team](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1383-maximum-performance-of-a-team) |
 <!---LeetCode Topics End-->
