@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0641-design-circular-deque](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0641-design-circular-deque) |
 | [1306-jump-game-iii](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1306-jump-game-iii) |
 | [1383-maximum-performance-of-a-team](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1383-maximum-performance-of-a-team) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0641-design-circular-deque](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0641-design-circular-deque) |
 ## Queue
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0303-range-sum-query-immutable) |
 | [2574-left-and-right-sum-differences](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2574-left-and-right-sum-differences) |
 ## Linked List
 |  |
