@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3689-maximum-total-subarray-value-i) |
+| [3838-weighted-word-mapping](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3838-weighted-word-mapping](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3838-weighted-word-mapping) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+## String
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3838-weighted-word-mapping) |
 <!---LeetCode Topics End-->
