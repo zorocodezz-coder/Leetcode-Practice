@@ -19,17 +19,25 @@ public:
         return count;
     }
     int pairSum(ListNode* head) {
-        int n = fun(head);
-        int half_time= n/2;
+        // int n = fun(head);
+        // int half_time= n/2;
 
-        ListNode* temp=head;
-        while(half_time--){
-            temp=temp->next;
+        ListNode* slow=head;
+        ListNode* fast = head;
+        // while(half_time--){
+        //     temp=temp->next;
+        // }
+        while(fast!=nullptr){
+            slow = slow->next;
+            fast=fast->next;
+            if(fast!=nullptr){
+                fast = fast->next;
+            }
         }
 
-        ListNode* curr= temp;
+        ListNode* curr= slow;
         ListNode* prev = nullptr;
-        ListNode* fut = temp;
+        ListNode* fut = slow;
         while(curr){
             fut = curr->next;
             curr->next = prev;
