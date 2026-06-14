@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0232-implement-queue-using-stacks) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0641-design-circular-deque](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0641-design-circular-deque) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Hash Table
 |  |
 | ------- |
