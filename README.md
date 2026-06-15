@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0641-design-circular-deque](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0641-design-circular-deque) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Hash Table
 |  |
