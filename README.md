@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3612-process-string-with-special-operations-i](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3838-weighted-word-mapping) |
 ## Heap (Priority Queue)
 |  |
@@ -141,5 +142,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3838-weighted-word-mapping) |
 <!---LeetCode Topics End-->
