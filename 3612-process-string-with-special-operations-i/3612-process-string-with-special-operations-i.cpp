@@ -1,23 +1,23 @@
 class Solution {
 public:
     string processStr(string s) {
-        string temp="";
+        string ans="";
         for(char &c:s){
             if(c>='a' && c<='z'){
-                temp+=c;
+                ans+=c;
             }
             if(c=='*'){
-                if(temp.size()>0){
-                    temp.pop_back();
+                if(ans.size()>0){
+                    ans.pop_back();
                 }
             }
             if(c=='#'){
-                temp = temp+temp;
+                ans+=ans;
             }
             if(c=='%'){
-                reverse(temp.begin(),temp.end());
+                reverse(ans.begin(),ans.end());
             }
         }
-        return temp;
+        return ans;
     }
 };
