@@ -50,6 +50,5 @@ public:
             }
         }
         return max_height;
-
     }
 };
