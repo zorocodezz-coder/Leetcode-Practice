@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [1306-jump-game-iii](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1306-jump-game-iii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0232-implement-queue-using-stacks) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Simulation
