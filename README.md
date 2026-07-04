@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [1306-jump-game-iii](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1306-jump-game-iii) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Memoization
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [1306-jump-game-iii](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1306-jump-game-iii) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Stack
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3620-network-recovery-pathways](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
