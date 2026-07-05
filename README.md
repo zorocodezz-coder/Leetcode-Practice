@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3620-network-recovery-pathways) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0641-design-circular-deque](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0641-design-circular-deque) |
+| [1301-number-of-paths-with-max-score](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1306-jump-game-iii) |
 | [1383-maximum-performance-of-a-team](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1383-maximum-performance-of-a-team) |
 | [1732-find-the-highest-altitude](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1732-find-the-highest-altitude) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
