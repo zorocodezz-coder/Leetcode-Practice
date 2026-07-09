@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3620-network-recovery-pathways) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3689-maximum-total-subarray-value-i) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Depth-First Search
