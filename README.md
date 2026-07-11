@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1306-jump-game-iii) |
 | [1383-maximum-performance-of-a-team](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1383-maximum-performance-of-a-team) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1840-maximum-building-height) |
