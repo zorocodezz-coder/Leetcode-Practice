@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3620-network-recovery-pathways) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3620-network-recovery-pathways) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1344-angle-between-hands-of-a-clock](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1840-maximum-building-height) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -260,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3620-network-recovery-pathways) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
