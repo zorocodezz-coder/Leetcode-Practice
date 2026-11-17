@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0641-design-circular-deque](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0641-design-circular-deque) |
+| [0875-koko-eating-bananas](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0875-koko-eating-bananas) |
 | [1288-remove-covered-intervals](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1306-jump-game-iii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0875-koko-eating-bananas](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0875-koko-eating-bananas) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
