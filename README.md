@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0303-range-sum-query-immutable](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0641-design-circular-deque](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0641-design-circular-deque) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [1288-remove-covered-intervals](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1383-maximum-performance-of-a-team](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1383-maximum-performance-of-a-team) |
@@ -303,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
