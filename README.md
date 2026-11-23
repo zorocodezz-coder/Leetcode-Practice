@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0053-maximum-subarray) |
+| [1143-longest-common-subsequence](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0076-minimum-window-substring) |
+| [1143-longest-common-subsequence](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -309,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/0056-merge-intervals) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/zorocodezz-coder/Leetcode-Practice/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
